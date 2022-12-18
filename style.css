@@ -1,0 +1,19 @@
+.navbar-brand{
+    color: aqua;
+    size: 100px;
+}
+
+.form-control{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 100px;
+    /* padding: 10px; */
+}
+h5{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card-text{
+    padding: 10px 10px 10px 10px;
+}
